@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-taketwostreetsmart-dev-2d058-authRole",
+      "UnauthRoleArn": "arn:aws:iam::030844438500:role/amplify-taketwostreetsmart-dev-2d058-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::030844438500:role/amplify-taketwostreetsmart-dev-2d058-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-taketwostreetsmart-dev-2d058-deployment",
+      "UnauthRoleName": "amplify-taketwostreetsmart-dev-2d058-unauthRole",
+      "StackName": "amplify-taketwostreetsmart-dev-2d058",
+      "StackId": "arn:aws:cloudformation:us-east-1:030844438500:stack/amplify-taketwostreetsmart-dev-2d058/5de5dda0-42c9-11ef-8d67-0affd4ffc5d5",
+      "AmplifyAppId": "d1ee5cssu0bec3"
+    },
+    "categories": {
+      "auth": {
+        "taketwostreetsmart33b0d9d4": {}
+      }
+    }
+  }
+}
